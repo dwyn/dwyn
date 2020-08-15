@@ -6,12 +6,10 @@
 - 🤔 I’m looking for help with professional development as an engineer!
 - 💬 You can ask me about literally anything. Reach out, let's connect!
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I love to learn! (There's so much interesting information out there!😆)
+- ⚡ Fun fact: I love to learn! ( There's so much interesting information out there!😆 )
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/jq24aHWbTbmerMJ2M3JmDA)
-
-
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="dwiebs spotify vibes" width="350" />](https://open.spotify.com/user/si=jq24aHWbTbmerMJ2M3JmDA)
 
 
 ### Languages and Tools:
