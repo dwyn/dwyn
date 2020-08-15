@@ -59,6 +59,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+[![Dwayne's github stats](https://github-readme-stats.vercel.app/api?username=dwyn)](https://github.com/dwyn/github-readme-stats)
 
 
 [website]: https://dwayne.fm
