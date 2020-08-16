@@ -59,8 +59,11 @@
 - [macOS Local Environment Install 4.2020](https://www.youtube.com/watch?v=DQINJQl4o24)
 <!-- YOUTUBE:END -->
 
-[![Dwayne's github stats](https://github-readme-stats.praxis.vercel.app/api?username=dwyn&show_icons=true&hide_border=true)](https://github.com/dwyn/github-readme-stats)
+<details>
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="dwayne's Github Stats" src="https://github-readme-stats.praxis.vercel.app/api?username=dwyn&theme=synthwave&show_icons=true&hide_border=true" />
+</details>
 
 [website]: https://dwayne.fm
 [twitter]: https://twitter.com/dwyn
