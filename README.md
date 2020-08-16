@@ -8,7 +8,7 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love to learn! ( There's so much interesting information out there!😆 )
 
- 
+
 ### Spotify Playing 🎧
 [<img src="https://spotify-playback-novatorem.vercel.app/api/spotify-playing" alt="dwiebs spotify vibes" width="350" />](https://open.spotify.com/user/jq24aHWbTbmerMJ2M3JmDA)
 
