@@ -1,4 +1,4 @@
-### 🖖🏾 and Welcome!
+## 🖖🏾 and Welcome!
 
 - 🔭 I’m currently working on my personal site
 - 🌱 I’m currently learning GatsbyJS
@@ -10,7 +10,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-playback-novatorem.vercel.app/api/spotify-playing" alt="dwiebs spotify vibes" width="350" />](https://open.spotify.com/user/jq24aHWbTbmerMJ2M3JmDA)
+[<img src="https://spotify-playback.praxis.vercel.app/api/spotify-playing" alt="dwyn Spotify Playing" width="350" />](https://open.spotify.com/user/dwayne.?si=cajnRzLMSJyeqmbI4_GHrg)
 
 ### Languages and Tools:
 
@@ -51,15 +51,7 @@
 <br />
 
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [WSL Local Environment Install 4.2020](https://www.youtube.com/watch?v=NVlX7WVn_Gw)
-- [macOS Local Environment Install 4.2020](https://www.youtube.com/watch?v=DQINJQl4o24)
-<!-- YOUTUBE:END -->
 
 <details>
   <summary>:zap: Github Stats</summary>
