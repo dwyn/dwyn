@@ -1,12 +1,12 @@
 ## 🖖🏾 and welcome !
 
-🔭 I’m currently working on my personal site
-🌱 I’m currently growing with GatsbyJS
-👯 I’m looking to collaborate on literally anything.
-🤔 I’m looking for help in finding the answers to life?
-💬 You can ask me about literally anything. Reach out, let's connect😊
-😄 Pronouns: He / Him
-⚡ Fun fact: I love to learn! ( There's so much interesting information out there!😆 )
+🔭 I’m currently working on my personal site <br/>
+🌱 I’m currently growing with GatsbyJS <br/>
+👯 I’m looking to collaborate on literally anything. <br/>
+🤔 I’m looking for help in finding the answers to life? <br/>
+💬 You can ask me about literally anything. Reach out, let's connect😊 <br/>
+😄 Pronouns: He / Him <br/>
+⚡ Fun fact: I love to learn! ( There's so much interesting information out there!😆 ) <br/>
 
 
 ### Spotify Playing 🎧🔥🔥🔥
