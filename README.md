@@ -1,16 +1,16 @@
-## 🖖🏾 and Welcome!
+## 🖖🏾 and welcome !
 
-- 🔭 I’m currently working on my personal site
-- 🌱 I’m currently learning GatsbyJS
-- 👯 I’m looking to collaborate on literally anything. 
-- 🤔 I’m looking for help with professional development as an engineer!
-- 💬 You can ask me about literally anything. Reach out, let's connect!
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: I love to learn! ( There's so much interesting information out there!😆 )
+🔭 I’m currently working on my personal site
+🌱 I’m currently growing with GatsbyJS
+👯 I’m looking to collaborate on literally anything.
+🤔 I’m looking for help in finding the answers to life?
+💬 You can ask me about literally anything. Reach out, let's connect😊
+😄 Pronouns: He / Him
+⚡ Fun fact: I love to learn! ( There's so much interesting information out there!😆 )
 
 
-### Spotify Playing 🎧
-[<img src="https://spotify-playback.praxis.vercel.app/api/spotify-playing" alt="dwyn Spotify Playing" width="350" />](https://open.spotify.com/user/dwayne.?si=cajnRzLMSJyeqmbI4_GHrg)
+### Spotify Playing 🎧🔥🔥🔥
+[<img src="https://spotify-playback.praxis.vercel.app/api/spotify-playing" alt="dwyn Spotify Playing" width="450" />](https://open.spotify.com/user/dwayne.?si=cajnRzLMSJyeqmbI4_GHrg)
 
 ### Languages and Tools:
 
