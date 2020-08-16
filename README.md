@@ -6,7 +6,7 @@
 🤔 &nbsp; I’m looking for help in finding the answers to life? <br/>
 💬 &nbsp; You can ask me about literally anything. Reach out, let's connect😊 <br/>
 😄 &nbsp; Pronouns: He / Him <br/>
-⚡ &nbsp; Fun fact: I love to learn! ( There's so much interesting information out there!😆 ) <br/>
+⚡ &nbsp; Fun fact: I love to learn! (There's so much interesting information out there!😆 ) <br/>
 
 
 ### Spotify Playing 🎧🔥🔥🔥
