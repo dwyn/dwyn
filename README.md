@@ -4,20 +4,13 @@
     <a href="https://www.linkedin.com/in/dwyn"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-<p align="center">
-  <br> 🎧 on Spotify🔥🔥🔥<br>
-  [<img src="https://spotify-playback.praxis.vercel.app/api/spotify-playing" alt="dwyn Spotify Playing" width="450" />](https://open.spotify.com/user/dwayne.?si=cajnRzLMSJyeqmbI4_GHrg)
-</p>
+##  🎧 on Spotify🔥🔥🔥
+[<img src="https://spotify-playback.praxis.vercel.app/api/spotify-playing" alt="dwyn Spotify Playing" width="450" />](https://open.spotify.com/user/dwayne.?si=cajnRzLMSJyeqmbI4_GHrg)
 
 <br />
 <br />
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="dwayne's Github Stats" src="https://github-readme-stats.praxis.vercel.app/api?username=dwyn&theme=synthwave&show_icons=true&hide_border=true" />
-</details>
 
 <!-- 
 [website]: https://dwayne.fm
