@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  ### Spotify Playing 🎧🔥🔥🔥
+  <br> 🎧 on Spotify🔥🔥🔥<br>
   [<img src="https://spotify-playback.praxis.vercel.app/api/spotify-playing" alt="dwyn Spotify Playing" width="450" />](https://open.spotify.com/user/dwayne.?si=cajnRzLMSJyeqmbI4_GHrg)
 </p>
 
