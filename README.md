@@ -4,22 +4,14 @@
     <a href="https://www.linkedin.com/in/dwyn"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-##  
-[<img src="https://spotify-playback.praxis.vercel.app/api/spotify-playing" alt="dwyn Spotify Playing" width="450" />](https://open.spotify.com/user/dwayne.?si=cajnRzLMSJyeqmbI4_GHrg)
-
-<br />
-<br />
-
 ### <span align="center"> </span>
 
-<p align="center"> 🎧 on Spotify🔥🔥🔥 </p>
+<p align="center" style="font-size:30px"> 🎧 on Spotify🔥🔥🔥 </p>
 <p align="center" src="https://open.spotify.com/user/dwayne.?si=cajnRzLMSJyeqmbI4_GHrg">
   
   <img  src="https://spotify-playback.praxis.vercel.app/api/spotify-playing" alt="dwyn Spotify Playing">
 
-
-<! -- width="" height="" --> 
-
+</p>
 
 <!-- 
 [website]: https://dwayne.fm
