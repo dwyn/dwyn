@@ -6,7 +6,7 @@
 
 ### <span align="center"> </span>
 
-<p align="center" style="font-size:30px"> 🎧 on Spotify🔥🔥🔥 </p>
+<p align="center" style="font-size:30px"> 🎧 &nbsp; on Spotify &nbsp;🔥 </p>
 <p align="center" src="https://open.spotify.com/user/dwayne.?si=cajnRzLMSJyeqmbI4_GHrg">
   
   <img  src="https://spotify-playback.praxis.vercel.app/api/spotify-playing" alt="dwyn Spotify Playing">
