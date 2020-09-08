@@ -7,4 +7,8 @@
 <br/>
 <br/>
 
-[![Anurag's github stats](https://github-readme-stats.dwyn.vercel.app/api?username=dwyn&show_icons=true)](https://github.com/dwyn/github-readme-stats)
+
+
+<p align="center">
+![Github Stats bb!](https://github-readme-stats.dwyn.vercel.app//api?username=dwyn&show_icons=true)
+</p>
