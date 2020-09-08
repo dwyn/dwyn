@@ -7,8 +7,6 @@
 <br/>
 <br/>
 
-
-
 <p align="center">
-![Github Stats bb!](https://github-readme-stats.dwyn.vercel.app//api?username=dwyn&show_icons=true)
+  <img  src="https://github-readme-stats.dwyn.vercel.app/api?username=dwyn&show_icons=true">
 </p>
