@@ -7,9 +7,14 @@
 <br/>
 <br/>
 
+<p align="center">
+
 | Currently on Spotify... |
 | :----:      |
 | [![Spotify](https://spotify-readme.dwyn.vercel.app/api/spotify)](https://open.spotify.com/user/dwayne.)      |
+
+</p>
+
 
 
 
