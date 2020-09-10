@@ -11,19 +11,13 @@
 
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="100%">
       
 &nbsp; <br> [![Spotify](https://spotify-readme.dwyn.vercel.app/api/spotify)](https://open.spotify.com/user/dwayne.)
-  </td>
-  <td width="50%">
-  hi
   </td>
 </table>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-[<img src="]
-[![Spotify](novatorem-gamma-pink.vercel.app
-)](https://open.spotify.com/user/dwayne.)
 
 <p align="center">
   <img  src="https://github-readme-stats.dwyn.vercel.app/api?username=dwyn&show_icons=true">
