@@ -7,16 +7,10 @@
 <br/>
 <br/>
 
-<p align="center">
+<center>
 
-| Currently on Spotify... |
+| 🎧  &nbsp; on Spotify... |
 | :----:      |
 | [![Spotify](https://spotify-readme.dwyn.vercel.app/api/spotify)](https://open.spotify.com/user/dwayne.)      |
 
-</p>
-
-
-
-
-## Currently 🎧 to...
-[![Spotify](https://spotify-readme.dwyn.vercel.app/api/spotify)](https://open.spotify.com/user/dwayne.)
+</center>
