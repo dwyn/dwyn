@@ -8,17 +8,4 @@
 <br/>
 
 ## Currently 🎧 to...
-
-<table width="100%"> 
-  <tr>
-  <td width="100%">
-      
-&nbsp; <br> [![Spotify](https://spotify-readme.dwyn.vercel.app/api/spotify)](https://open.spotify.com/user/dwayne.)
-  </td>
-</table>
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-
-<p align="center">
-  <img  src="https://github-readme-stats.dwyn.vercel.app/api?username=dwyn&show_icons=true">
-</p>
+[![Spotify](https://spotify-readme.dwyn.vercel.app/api/spotify)](https://open.spotify.com/user/dwayne.)
