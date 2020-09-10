@@ -7,6 +7,11 @@
 <br/>
 <br/>
 
+## Currently 🎧 to...
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Spotify](novatorem-gamma-pink.vercel.app
+)](https://open.spotify.com/user/dwayne.)
+
 <p align="center">
   <img  src="https://github-readme-stats.dwyn.vercel.app/api?username=dwyn&show_icons=true">
 </p>
