@@ -9,8 +9,11 @@
 
 <center>
 
-| 🎧  &nbsp; on Spotify... |
-| :----:      |
-| [![Spotify](https://spotify-readme.dwyn.vercel.app/api/spotify)](https://open.spotify.com/user/dwayne.)      |
+test
+
 
 </center>
+
+ 🎧  &nbsp; on Spotify...
+
+[![Spotify](https://spotify-readme.dwyn.vercel.app/api/spotify)](https://open.spotify.com/user/dwayne.)
