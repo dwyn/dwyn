@@ -10,13 +10,16 @@
 <br/>
 <br/>
 
+
 <table width="100%"> 
   <tr>
-  <td width="1000%">
+  <td width="50%">
       
-&nbsp; <br> [![Spotify](https://spotify-readme.dwyn.vercel.app/api/spotify)](https://open.spotify.com/user/dwayne.)
+    &nbsp; <br> [![Spotify](https://spotify-readme.dwyn.vercel.app/api/spotify)](https://open.spotify.com/user/dwayne.)
 
   </td>
+  <td width="50%">
+
+    <br><p align="center"> 🙃 </p>
+  </td>
 </table>
-
-
